@@ -1,6 +1,6 @@
 如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨
 
-    # awesome-code-resources
+# awesome-code-resources
 [TIOBE](https://www.tiobe.com/tiobe-index/) Top 20 编程语言的代码和资源的精选列表，中文翻译。
 
 | star数量 | 编程语言 | 简介 | 原仓库 | 中文翻译仓库 |
