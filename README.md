@@ -1,4 +1,4 @@
-如果您觉得这个项目对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨
+如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-code-resources)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨
 
 # awesome-code-resources
 [TIOBE](https://www.tiobe.com/tiobe-index/) Top 20 编程语言的代码和资源的精选列表，中文翻译。
